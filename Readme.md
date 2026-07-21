@@ -22,8 +22,6 @@
 
 ---
 
-## `01` / ABOUT
-
 I'm **Justin Joe Mathew** — a Computer Science Engineering student who likes turning interesting ideas into working software.
 
 I build across the intersection of:
