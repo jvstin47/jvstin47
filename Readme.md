@@ -28,5 +28,14 @@ I'm **Justin Joe Mathew** — a Computer Science Engineering student who likes t
 
 I build across the intersection of:
 
+🧠 AI & Intelligent Software
+Exploring AI-powered applications, multi-tenant SaaS platforms, AI agents, automation, and tools that make software more capable.
+
+🌐 Digital Experiences
+Building modern websites and web applications that feel as good as they function — from polished interfaces to immersive 3D experiences.
+
+🧪 Experiments
+Trying things that are sometimes practical, sometimes ambitious, and occasionally completely unnecessary.
+
 ```text
 SOFTWARE  ×  AI  ×  DESIGN  ×  EXPERIMENTATION
