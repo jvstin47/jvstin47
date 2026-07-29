@@ -1,6 +1,6 @@
 <div align="center">
 
-# 47 ⚡
+# 47 
 
 ### I build things I wish existed.
 
