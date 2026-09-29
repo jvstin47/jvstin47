@@ -23,6 +23,14 @@
     <a href="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views">
       <img src="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
     </a>
+    &nbsp;
+    <a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+    </a>
+  </p>
+
+  <p align="center">
+    📄 <b><a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">View / Download Latest Resume (PDF)</a></b>
   </p>
 
 </div>
