@@ -1,0 +1,212 @@
+<svg width="850" height="260" viewBox="0 0 850 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <linearGradient id="cardLeftGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7f50" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#b83210" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="cardMidGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="cardRightGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#cc8800" stop-opacity="0.95" />
+    </linearGradient>
+
+    <linearGradient id="cyberBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.4" />
+    </linearGradient>
+
+    <radialGradient id="cyberGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="neonBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes spinGear {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+
+    @keyframes floatLeft {
+      0%, 100% { transform: translate(250px, 110px) rotate(-16deg) scale(0.96); }
+      50% { transform: translate(242px, 98px) rotate(-22deg) scale(1.02); }
+    }
+
+    @keyframes floatMid {
+      0%, 100% { transform: translate(425px, 95px) rotate(0deg) scale(1.0); }
+      50% { transform: translate(425px, 85px) rotate(0deg) scale(1.06); }
+    }
+
+    @keyframes floatRight {
+      0%, 100% { transform: translate(600px, 110px) rotate(16deg) scale(0.96); }
+      50% { transform: translate(608px, 98px) rotate(22deg) scale(1.02); }
+    }
+
+    @keyframes liveBlink {
+      0%, 100% { opacity: 1; filter: drop-shadow(0 0 6px #10b981); }
+      50% { opacity: 0.3; filter: none; }
+    }
+
+    /* Li-Deheng pulsating loader keyframes */
+    @keyframes circle-keys {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.45); opacity: 0.45; }
+    }
+
+    @keyframes dot-keys {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(0.2); }
+    }
+
+    @keyframes outline-keys {
+      0% { r: 6px; stroke-width: 4px; opacity: 0.9; }
+      100% { r: 18px; stroke-width: 0.5px; opacity: 0; }
+    }
+
+    .node-circle-1 { animation: circle-keys 2s ease-in-out infinite 0s; transform-origin: 395px 225px; }
+    .node-dot-1 { animation: dot-keys 2s ease-in-out infinite 0s; transform-origin: 395px 225px; }
+    .node-outline-1 { animation: outline-keys 2s ease-in-out infinite 0s; }
+
+    .node-circle-2 { animation: circle-keys 2s ease-in-out infinite 0.3s; transform-origin: 415px 225px; }
+    .node-dot-2 { animation: dot-keys 2s ease-in-out infinite 0.3s; transform-origin: 415px 225px; }
+    .node-outline-2 { animation: outline-keys 2s ease-in-out infinite 0.3s; }
+
+    .node-circle-3 { animation: circle-keys 2s ease-in-out infinite 0.6s; transform-origin: 435px 225px; }
+    .node-dot-3 { animation: dot-keys 2s ease-in-out infinite 0.6s; transform-origin: 435px 225px; }
+    .node-outline-3 { animation: outline-keys 2s ease-in-out infinite 0.6s; }
+
+    .node-circle-4 { animation: circle-keys 2s ease-in-out infinite 0.9s; transform-origin: 455px 225px; }
+    .node-dot-4 { animation: dot-keys 2s ease-in-out infinite 0.9s; transform-origin: 455px 225px; }
+    .node-outline-4 { animation: outline-keys 2s ease-in-out infinite 0.9s; }
+
+    .card-left { animation: floatLeft 4.5s ease-in-out infinite; transform-origin: center; }
+    .card-mid { animation: floatMid 4.5s ease-in-out infinite; transform-origin: center; }
+    .card-right { animation: floatRight 4.5s ease-in-out infinite; transform-origin: center; }
+    .spinning-gear { animation: spinGear 5s linear infinite; transform-origin: 25px 25px; }
+    .status-dot { animation: liveBlink 1.8s infinite; }
+
+    .code-font { font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', Monaco, monospace; }
+  </style>
+
+  <!-- Outer Cyber Container -->
+  <rect x="2" y="2" width="846" height="256" rx="14" fill="url(#bgGrad)" stroke="url(#cyberBorder)" stroke-width="1.5" />
+  <circle cx="425" cy="115" r="140" fill="url(#cyberGlow)" />
+
+  <!-- Corner Brackets -->
+  <path d="M 16 30 L 16 16 L 30 16" stroke="#38bdf8" stroke-width="2" fill="none" opacity="0.7" />
+  <path d="M 834 30 L 834 16 L 820 16" stroke="#c084fc" stroke-width="2" fill="none" opacity="0.7" />
+  <path d="M 16 230 L 16 244 L 30 244" stroke="#38bdf8" stroke-width="2" fill="none" opacity="0.7" />
+  <path d="M 834 230 L 834 244 L 820 244" stroke="#c084fc" stroke-width="2" fill="none" opacity="0.7" />
+
+  <!-- HUD Top Bar -->
+  <circle cx="32" cy="35" r="4.5" fill="#10b981" class="status-dot" />
+  <text x="46" y="39" fill="#94a3b8" font-size="11" font-weight="600" class="code-font" letter-spacing="1.2">SYSTEM // CORE ENGINE: ONLINE</text>
+  
+  <text x="425" y="39" text-anchor="middle" fill="#38bdf8" font-size="11" font-weight="700" class="code-font" letter-spacing="2">JVSTIN47 EXPERIMENTAL LABS</text>
+
+  <text x="815" y="39" text-anchor="end" fill="#64748b" font-size="10.5" class="code-font">LATENCY: 12ms · 60 FPS</text>
+  <line x1="20" y1="50" x2="830" y2="50" stroke="#1e293b" stroke-width="1" />
+
+  <!-- ==================== UIVERSE CARDS DECK ==================== -->
+  
+  <!-- Left Card: AI & SIMULATION (Orange/Coral) -->
+  <g class="card-left">
+    <g transform="translate(-55, -55)" filter="url(#cardShadow)">
+      <rect width="110" height="110" rx="14" fill="url(#cardLeftGrad)" stroke="#ffedd5" stroke-width="1.8" />
+      <!-- Pie Chart Icon (Scaled from 1024x1024) -->
+      <g transform="translate(30, 24) scale(0.048)">
+        <path fill="#ffffff" d="M446.208 566.72h369.28c-2.944 103.808-39.36 190.72-109.376 260.736s-156.608 106.432-259.904 109.376c-103.808-2.944-190.72-39.36-260.736-109.376s-106.432-156.928-109.376-260.736c2.944-103.232 39.36-189.888 109.376-259.904S342.4 200.448 446.208 197.504v369.216z m383.296-383.232c70.016 70.016 106.432 156.928 109.376 260.736H568.704V74.112c103.872 2.944 190.784 39.36 260.8 109.376z"/>
+      </g>
+      <text x="55" y="93" text-anchor="middle" fill="#ffffff" font-size="9" font-weight="700" class="code-font" letter-spacing="0.5">AI &amp; SIMULATION</text>
+    </g>
+  </g>
+
+  <!-- Right Card: SYSTEMS & OS (Gold/Yellow) -->
+  <g class="card-right">
+    <g transform="translate(-55, -55)" filter="url(#cardShadow)">
+      <rect width="110" height="110" rx="14" fill="url(#cardRightGrad)" stroke="#fef08a" stroke-width="1.8" />
+      <!-- Checklist / Document Icon (Scaled from 1024x1024) -->
+      <g transform="translate(30, 22) scale(0.048)">
+        <path fill="#ffffff" d="M773.907692 992.768h-590.76923c-48.864492 0-88.615385-39.754831-88.615385-88.615385V120.032492c0-48.852677 39.743015-88.615385 88.599631-88.631138l379.076923-0.169354h0.047261c35.233477 0 78.217846 18.699815 102.230646 44.480985l158.0032 169.621661C845.686154 270.245415 862.523077 313.040738 862.523077 347.096615v300.780308c0 27.1872-22.043569 49.230769-49.230769 49.230769s-49.230769-22.043569-49.23077-49.230769V347.096615c0-9.168738-7.388554-27.951262-13.627076-34.650584l-158.011077-169.6256c-5.490215-5.891938-22.122338-13.126892-30.176493-13.126893h-0.003938L192.984615 129.858954V894.306462h571.076923V805.415385c0-27.1872 22.043569-49.230769 49.23077-49.23077s49.230769 22.043569 49.230769 49.23077v98.73723c0 48.864492-39.754831 88.615385-88.615385 88.615385z"/>
+        <path fill="#ffffff" d="M414.802708 753.829415a49.092923 49.092923 0 0 1-34.812062-14.418707l-90.289231-90.285293c-19.223631-19.223631-19.227569-50.396554 0-69.624123 19.223631-19.223631 50.396554-19.223631 69.624123 0l55.47717 55.473231 187.7504-187.746461c19.227569-19.223631 50.396554-19.219692 69.624123 0 19.227569 19.227569 19.227569 50.396554 0 69.624123l-222.562462 222.558523a49.073231 49.073231 0 0 1-34.812061 14.418707z"/>
+      </g>
+      <text x="55" y="93" text-anchor="middle" fill="#ffffff" font-size="9" font-weight="700" class="code-font" letter-spacing="0.5">SYSTEMS &amp; MOBILE</text>
+    </g>
+  </g>
+
+  <!-- Center Card: 3D CORE & WEBGL (Cyan/Teal) -->
+  <g class="card-mid">
+    <g transform="translate(-60, -60)" filter="url(#cardShadow)">
+      <rect width="120" height="120" rx="16" fill="url(#cardMidGrad)" stroke="#cffafe" stroke-width="2" />
+      <!-- Rotating Cog / Gear Icon from Uiverse -->
+      <g transform="translate(35, 23)">
+        <g class="spinning-gear">
+          <g transform="translate(-25, -25) scale(0.048)">
+            <path fill="#ffffff" d="M793.6 678.4c29.866667-51.2 81.066667-76.8 132.266667-72.533333 8.533333-29.866667 12.8-64 12.8-98.133334 0-29.866667-4.266667-59.733333-8.533334-85.333333-51.2 8.533333-106.666667-21.333333-136.533333-72.533333-29.866667-51.2-25.6-115.2 8.533333-153.6-46.933333-42.666667-98.133333-72.533333-157.866666-93.866667-17.066667 51.2-68.266667 85.333333-132.266667 85.333333s-110.933333-34.133333-132.266667-85.333333c-59.733333 21.333333-110.933333 55.466667-157.866666 98.133333 34.133333 42.666667 38.4 102.4 8.533333 153.6-29.866667 51.2-85.333333 76.8-136.533333 68.266667-4.266667 29.866667-8.533333 59.733333-8.533334 89.6 0 34.133333 4.266667 64 12.8 93.866667 51.2-4.266667 102.4 21.333333 132.266667 72.533333 25.6 51.2 25.6 106.666667-4.266667 149.333333 46.933333 42.666667 98.133333 72.533333 157.866667 89.6 21.333333-46.933333 68.266667-76.8 128-76.8s106.666667 29.866667 128 76.8c59.733333-17.066667 110.933333-51.2 157.866667-89.6-29.866667-42.666667-34.133333-98.133333-4.266667-149.333333z m-281.6 17.066667c-102.4 0-183.466667-81.066667-183.466667-183.466667S409.6 328.533333 512 328.533333s183.466667 81.066667 183.466667 183.466667-81.066667 183.466667-183.466667 183.466667z"/>
+          </g>
+        </g>
+      </g>
+      <text x="60" y="101" text-anchor="middle" fill="#ffffff" font-size="9.5" font-weight="800" class="code-font" letter-spacing="0.8">3D WEB &amp; CREATIVE</text>
+    </g>
+  </g>
+
+  <!-- ==================== UIVERSE LI-DEHENG PULSATING LOADER ==================== -->
+  <g transform="translate(0, 0)">
+    <!-- Node 1 -->
+    <g>
+      <circle cx="395" cy="225" class="node-outline-1" stroke="#38bdf8" fill="none" />
+      <circle cx="395" cy="225" r="7.5" class="node-circle-1" stroke="#38bdf8" stroke-width="1.8" fill="none" />
+      <circle cx="395" cy="225" r="4.5" class="node-dot-1" fill="#38bdf8" />
+    </g>
+
+    <!-- Node 2 -->
+    <g>
+      <circle cx="415" cy="225" class="node-outline-2" stroke="#818cf8" fill="none" />
+      <circle cx="415" cy="225" r="7.5" class="node-circle-2" stroke="#818cf8" stroke-width="1.8" fill="none" />
+      <circle cx="415" cy="225" r="4.5" class="node-dot-2" fill="#818cf8" />
+    </g>
+
+    <!-- Node 3 -->
+    <g>
+      <circle cx="435" cy="225" class="node-outline-3" stroke="#c084fc" fill="none" />
+      <circle cx="435" cy="225" r="7.5" class="node-circle-3" stroke="#c084fc" stroke-width="1.8" fill="none" />
+      <circle cx="435" cy="225" r="4.5" class="node-dot-3" fill="#c084fc" />
+    </g>
+
+    <!-- Node 4 -->
+    <g>
+      <circle cx="455" cy="225" class="node-outline-4" stroke="#f43f5e" fill="none" />
+      <circle cx="455" cy="225" r="7.5" class="node-circle-4" stroke="#f43f5e" stroke-width="1.8" fill="none" />
+      <circle cx="455" cy="225" r="4.5" class="node-dot-4" fill="#f43f5e" />
+    </g>
+  </g>
+
+  <!-- Loader Captions -->
+  <text x="350" y="229" text-anchor="end" fill="#64748b" font-size="10" font-weight="600" class="code-font" letter-spacing="1">RADAR SYNC</text>
+  <text x="500" y="229" text-anchor="start" fill="#94a3b8" font-size="10" font-weight="600" class="code-font" letter-spacing="1">PULSE: 120BPM // ACTIVE</text>
+</svg>
