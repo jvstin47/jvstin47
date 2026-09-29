@@ -105,10 +105,6 @@ I am a **Computer Science Engineering student** and **Full-stack Developer** pas
 
 <div align="center">
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvstin47&theme=tokyo-night&height=320&point=38bdf8&line=38bdf8&area_color=1a1b26&area=true&hide_border=true&custom_title=Contributions%20%26%20Activity&radius=6" alt="Activity Graph" width="95%" />
-
-  <br/><br/>
 
   <!-- Stats & Streak -->
   <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=jvstin47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
