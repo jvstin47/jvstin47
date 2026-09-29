@@ -12,6 +12,10 @@
 
   <!-- Social Badges -->
   <p align="center">
+    <a href="https://jvstin47.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io-0284c7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio" />
+    </a>
+    &nbsp;
     <a href="https://github.com/jvstin47" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-jvstin47-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
@@ -30,6 +34,8 @@
   </p>
 
   <p align="center">
+    🌐 <b><a href="https://jvstin47.github.io" target="_blank">Visit Official Portfolio Website (jvstin47.github.io)</a></b>
+    &nbsp;·&nbsp;
     📄 <b><a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">View / Download Latest Resume (PDF)</a></b>
   </p>
 
