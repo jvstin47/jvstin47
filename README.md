@@ -1,10 +1,16 @@
 <div align="center">
 
   # Justin Joe Mathew
-  <p><b>Computer Science Undergrad · Amal Jyothi College of Engineering</b></p>
+  <p><b>Computer Science Undergrad · Amal Jyothi College of Engineering ('29)</b></p>
   <p>Focusing on computer vision, edge systems, and autonomous robotics.</p>
 
-  <p>
+  <!-- Animated Interactive Portfolio Deck (SVG) -->
+  <p align="center">
+    <img src="./assets/portfolio-deck.svg" alt="Projects Deck" width="100%" />
+  </p>
+
+  <!-- Quick Action Badges -->
+  <p align="center">
     <a href="https://jvstin47.github.io" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io-047857?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
     </a>
@@ -26,26 +32,115 @@
 
 ---
 
-### 👨‍💻 About Me
+### ⚡ Quick Status
 
-I’m currently in my 2nd year of Computer Science & Engineering at **Amal Jyothi College of Engineering** (Class of 2029) in Kerala, India. Most of my projects center around **edge computing, computer vision, and autonomous systems**.
-
-I like building things that bridge software with physical hardware—whether that's thermal detection on drones, ROS 2 on an electric buggy, or high-throughput race simulations. I also frequently participate in hackathons with my team, where we build and test working prototypes under tight deadlines.
+```bash
+$ justin --status
+⚡ Location:    Kerala, India
+🎓 Education:   2nd Year B.Tech CSE @ Amal Jyothi College of Engineering (Class of 2029)
+🛠 Focus:       Computer Vision · Edge Systems · Autonomous Robotics
+🚀 Active Work: Phoenix X (SIH '26 Shortlist) · F1 Monte Carlo Strategy Sim
+```
 
 ---
 
-### 🚀 Projects
+### 👨‍💻 About Me
 
-| Project | Tech | What it does | Links |
-| :--- | :--- | :--- | :--- |
-| **Phoenix X** | `Computer Vision` `LoRa` `Python` | Autonomous search-and-rescue drone using on-device thermal object detection and offline LoRa telemetry for communication blackout zones. Shortlisted for SIH 2026. | [Mission Cockpit ↗](https://phoenix-sar-uav.vercel.app) · [Overview ↗](https://jvstin47.github.io/projects.html#p8) |
-| **F1 Monte Carlo Simulator** | `Python` `NumPy` `FastF1` `React` | Race strategy engine running 10,000-pass Monte Carlo simulations with non-linear tyre wear modeling and pit-stop optimization against live telemetry. | [Live App ↗](https://f1-monte-carlo-race-strategy-simula.vercel.app) · [Code ↗](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator) |
-| **Team Stellar Campus Buggy** | `ROS 2` `Autonomous EV` `Sensors` | Dual-mode autonomous electric campus vehicle project working on ROS 2 path planning, LiDAR/GPS sensor integration, and obstacle detection. | [Portfolio ↗](https://jvstin47.github.io) |
-| **AroggyaGram-3** | `Next.js` `AI Triage` `TypeScript` | Emergency health-dispatch prototype that processes distress requests and routes them to nearby health responders. Won ACM Vibefest and BIRAC/MakerHub ideathons. | [Code ↗](https://github.com/jvstin47/AroggyaGram-3) · [Case Study ↗](https://jvstin47.github.io/projects.html#p1) |
-| **Captain Lakshmi: Invicta** | `Canvas 2D` `React` `Vite` | Scroll-driven historical archive scrubbing 3,100+ frames smoothly at 60 FPS to tell the story of Dr. Lakshmi Sahgal. | [Live Site ↗](https://capt-lakshmi.vercel.app) · [Code ↗](https://github.com/jvstin47/Captain-Lakshmi-Invicta) |
-| **AutoMeter** | `Flutter` `Android` `IoT` | Smart auto-rickshaw fare meter prototype that calculates fares and generates dynamic on-screen UPI QR codes for cashless passenger payment. | [Code ↗](https://github.com/jvstin47/AutoMeter) |
-| **Opportunity** | `Kotlin` `Jetpack Compose` `Room` | Offline-first Android task planner built with Room DB, background sync with WorkManager, and a companion Wear OS app. | [Code ↗](https://github.com/jvstin47/opportunity-android-task-planner) |
-| **Song Chord Analyzer** | `PyTorch` `Electron` `MIR` | Desktop app for local music transcription: Demucs v4 audio stem separation and chord recognition. Built with [@jerinjomy07](https://github.com/jerinjomy07). | [Code ↗](https://github.com/jvstin47/Song-Chord-Analyzer--Mac) |
+I’m currently in my 2nd year of Computer Science & Engineering at **Amal Jyothi College of Engineering** in Kerala, India. Most of my work centers around **edge devices, computer vision, and autonomous systems**.
+
+I enjoy building things that bridge software with physical hardware—whether that's on-device thermal detection for search-and-rescue drones, ROS 2 on an autonomous campus electric buggy, or high-throughput stochastic simulation engines.
+
+---
+
+### 🚀 Selected Projects
+
+<details open>
+<summary>🛰️ <b>Phoenix X — Autonomous Search & Rescue UAV</b> <i>(SIH 2026 Shortlisted)</i></summary>
+<br/>
+
+> Autonomous Micro-UAV engineered for disaster zones with communication blackouts. Handles on-device thermal object detection and offline peer-to-peer telemetry over LoRa.
+>
+> **Stack:** Computer Vision · ThermalNet YOLO · LoRa P2P · Python  
+> **Links:** [Mission Cockpit ↗](https://phoenix-sar-uav.vercel.app) · [Project Overview ↗](https://jvstin47.github.io/projects.html#p8)
+
+</details>
+
+<details>
+<summary>🏎️ <b>F1 Monte Carlo Race Strategy Simulator</b></summary>
+<br/>
+
+> Vectorized 10,000-pass Monte Carlo race strategy engine that models non-linear tyre wear curves and uses dynamic programming to evaluate optimal pit-stop windows against live FastF1 telemetry.
+>
+> **Stack:** Python · NumPy · FastF1 · React  
+> **Links:** [Live Web App ↗](https://f1-monte-carlo-race-strategy-simula.vercel.app) · [GitHub Code ↗](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator)
+
+</details>
+
+<details>
+<summary>🚗 <b>Team Stellar — Dual-Mode Autonomous Campus Buggy</b></summary>
+<br/>
+
+> Autonomous electric campus buggy project at Amal Jyothi focusing on ROS 2 navigation, LiDAR/GPS sensor integration, and vision-based obstacle avoidance.
+>
+> **Stack:** ROS 2 · LiDAR · RTK-GPS · Embedded Controls  
+> **Links:** [Team Portfolio ↗](https://jvstin47.github.io)
+
+</details>
+
+<details>
+<summary>🚑 <b>AroggyaGram-3 — Community Crisis Triage Network</b> <i>(ACM Vibefest & BIRAC Ideathon Winner)</i></summary>
+<br/>
+
+> Intelligent community health dispatch system that parses unstructured emergency requests, classifies urgency, and routes nearby responders.
+>
+> **Stack:** Next.js · TypeScript · AI Triage Logic  
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/AroggyaGram-3) · [Case Study ↗](https://jvstin47.github.io/projects.html#p1)
+
+</details>
+
+<details>
+<summary>📜 <b>Captain Lakshmi: Invicta — Scroll-Driven Monograph</b></summary>
+<br/>
+
+> Interactive historical archive scrubbing 3,100+ frames at 60 FPS using hardware-accelerated Canvas 2D to commemorate Dr. Lakshmi Sahgal.
+>
+> **Stack:** Canvas 2D · React 19 · Vite  
+> **Links:** [Live Site ↗](https://capt-lakshmi.vercel.app) · [GitHub Code ↗](https://github.com/jvstin47/Captain-Lakshmi-Invicta)
+
+</details>
+
+<details>
+<summary>🛺 <b>AutoMeter — Dynamic UPI Fare Meter</b></summary>
+<br/>
+
+> Smart auto-rickshaw meter prototype that tracks distance and dynamically displays UPI QR codes for passenger cashless payment.
+>
+> **Stack:** Flutter · Android Native · IoT  
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/AutoMeter)
+
+</details>
+
+<details>
+<summary>📱 <b>Opportunity — Offline-First Task Planner</b></summary>
+<br/>
+
+> Native Android life & task architecture built with Room DB, background WorkManager synchronization, and a companion Wear OS app.
+>
+> **Stack:** Kotlin · Jetpack Compose · Wear OS  
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/opportunity-android-task-planner)
+
+</details>
+
+<details>
+<summary>🎵 <b>Song Chord Analyzer — Desktop Music Transcription</b></summary>
+<br/>
+
+> Local MIR desktop application with Demucs v4 audio stem separation and BTC Transformer chord recognition. Built with [@jerinjomy07](https://github.com/jerinjomy07).
+>
+> **Stack:** PyTorch · Electron · CUDA  
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/Song-Chord-Analyzer--Mac)
+
+</details>
 
 ---
 
