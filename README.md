@@ -1,42 +1,42 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header -->
+  <!-- Dynamic Typing Header in Signature Emerald -->
   <a href="https://github.com/jvstin47">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3800&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Justin+Joe+Mathew+%F0%9F%91%8B;CSE+Undergrad+%C2%B7+Full-Stack+Developer+%C2%B7+AI+Explorer;I+build+things+I+wish+existed+%E2%9A%A1;AI+Agents+%C2%B7+Vectorized+Simulators+%C2%B7+3D+Web+%C2%B7+Mobile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=25&duration=3800&pause=1000&color=10B981&center=true&vCenter=true&width=750&lines=Justin+Joe+Mathew+%C2%B7+Software+Engineer+%26+Systems+Builder;2nd+Year+B.Tech+CSE+%40+Amal+Jyothi+College+of+Engineering;Autonomous+Robotics+%C2%B7+Edge+AI+%C2%B7+High-Throughput+Simulators;Phoenix+X+(SIH+'26+Shortlist)+%C2%B7+F1+Monte+Carlo+%C2%B7+AroggyaGram-3" alt="Typing SVG" />
   </a>
 
-  <!-- Animated Cyber Triad Dock (Uiverse 3D Deck & Li-Deheng Pulsating Loader) -->
+  <!-- Animated Botanical Systems Dock -->
   <p align="center">
-    <img src="./assets/cyber-dock.svg" alt="Cyber Dock" width="100%" />
+    <img src="./assets/cyber-dock.svg" alt="Systems Dock" width="100%" />
   </p>
 
-  <!-- Social Badges -->
+  <!-- Social & Link Badges (Emerald / Forest Theme) -->
   <p align="center">
     <a href="https://jvstin47.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io-0284c7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io-047857?style=for-the-badge&logo=safari&logoColor=white" alt="Live Portfolio" />
     </a>
     &nbsp;
     <a href="https://github.com/jvstin47" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-jvstin47-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-jvstin47-064e3b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/jvstin47/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views">
-      <img src="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
+    <a href="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile Views">
+      <img src="https://komarev.com/ghpvc/?username=jvstin47&label=Profile%20Views&color=10b981&style=for-the-badge" alt="Profile Views" />
     </a>
     &nbsp;
     <a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume-Download_PDF-e11d48?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+      <img src="https://img.shields.io/badge/Resume-Download_PDF-10b981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
     </a>
   </p>
 
   <p align="center">
-    🌐 <b><a href="https://jvstin47.github.io" target="_blank">Visit Official Portfolio Website (jvstin47.github.io)</a></b>
+    🌲 <b><a href="https://jvstin47.github.io" target="_blank">Explore Official Portfolio Website (jvstin47.github.io)</a></b>
     &nbsp;·&nbsp;
-    📄 <b><a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">View / Download Latest Resume (PDF)</a></b>
+    📄 <b><a href="./assets/Justin_Mathew_Resume.pdf" target="_blank">Download Latest Resume (PDF)</a></b>
   </p>
 
 </div>
@@ -45,154 +45,174 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Science Engineering student** and **Full-stack Developer** exploring the convergence of intelligence, design, and systems engineering. I like exploring complex domains—from telemetry-driven race simulators and decentralized emergency networks to native mobile platforms and tactile 3D web interfaces.
+I am a **Computer Science & Engineering undergraduate** at **Amal Jyothi College of Engineering** (Class of 2029) based in Kerala, India. I architect and ship high-performance software at the convergence of **autonomous edge AI, stochastic simulation, and tactile digital mechanics**. 
 
-* 🧠 **AI & Intelligent Software:** Autonomous multi-agent pipelines, multi-tenant SaaS architectures, vectorized simulation engines, and LLM-powered domain coordination.
-* 🌐 **Interactive 3D & Digital Experiences:** Immersive web interfaces utilizing Three.js, WebGL, Framer Motion, and high-framerate canvas sequence animations.
-* 📱 **Native & Mobile Systems:** Offline-first mobile engineering with Kotlin, Jetpack Compose, Room DB, Wear OS companion systems, and cross-platform apps with Flutter.
-* 🧪 **Creative Engineering:** Blending physical mechanics and mathematical models with digital interfaces.
+Rather than wrapping surface-level APIs, I build from foundational physics and low-level constraints up—converting extreme operational chaos into deterministic, sub-millisecond execution.
+
+* 🤖 **Autonomous Robotics & Edge AI:** On-device neural inference (<20ms latency) on Qualcomm Robotics RB5 platforms, custom ThermalNet YOLO models for disaster search-and-rescue, 5km off-grid LoRa peer-to-peer telemetry meshes, and ROS 2 autonomous navigation systems for electric vehicles.
+* 🏎️ **High-Throughput Stochastic Simulations:** Vectorized 10,000-pass Monte Carlo race strategy engines in Python/NumPy, non-linear physical degradation modeling, and Bellman-equation dynamic programming optimizers.
+* 🚑 **Decentralized Crisis & Transit Systems:** Real-time emergency health triage networks converting unstructured distress calls into proximity-dispatched responder workflows, and tamper-resilient IoT transit meters with dynamic UPI payment generation.
+* 🎨 **Tactile 3D Web & Creative Engineering:** Hardware-accelerated 60 FPS Canvas 2D frame sequencers, WebGL shaders, and physics-driven interactive interfaces.
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+### 🛠️ Tech Stack & Systems Toolbelt
 
 <div align="center">
 
-  **Languages**
+  **Languages & Systems**
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,dart,c,cpp,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,kotlin,c,cpp,dart,html,css" alt="Languages" />
   </a>
   <br/><br/>
 
-  **Frameworks & Libraries**
+  **Robotics, AI & Backend Frameworks**
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,threejs,nodejs,fastapi,postgres" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=pytorch,opencv,fastapi,nodejs,react,nextjs,tailwind,postgres" alt="Frameworks" />
   </a>
   <br/><br/>
 
-  **Platforms, DevOps & Tools**
+  **Mobile, Platforms & Engineering Tooling**
   <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,androidstudio,linux,vite,figma,postman,vscode" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,linux,docker,git,github,vite,figma,postman" alt="Tools" />
   </a>
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Flagship Engineering Projects
 
 <div align="center">
 
-  <a href="https://github.com/jvstin47/AroggyaGram-3">
-    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=AroggyaGram-3&theme=tokyonight&hide_border=true" alt="AroggyaGram-3" />
+  <a href="https://github.com/jvstin47/Phoenix-SIH26177-SAR-UAV">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=Phoenix-SIH26177-SAR-UAV&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="Phoenix X SAR UAV" />
   </a>
   &nbsp;
   <a href="https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator">
-    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=f1-monte-carlo-race-strategy-simulator&theme=tokyonight&hide_border=true" alt="F1 Simulator" />
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=f1-monte-carlo-race-strategy-simulator&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="F1 Simulator" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/jvstin47/AroggyaGram-3">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=AroggyaGram-3&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="AroggyaGram-3" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/jvstin47/Captain-Lakshmi-Invicta">
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=Captain-Lakshmi-Invicta&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="Captain Lakshmi" />
   </a>
 
   <br/><br/>
 
   <a href="https://github.com/jvstin47/AutoMeter">
-    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=AutoMeter&theme=tokyonight&hide_border=true" alt="AutoMeter" />
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=AutoMeter&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="AutoMeter" />
   </a>
   &nbsp;
   <a href="https://github.com/jvstin47/opportunity-android-task-planner">
-    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=opportunity-android-task-planner&theme=tokyonight&hide_border=true" alt="Opportunity Android" />
+    <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/pin/?username=jvstin47&repo=opportunity-android-task-planner&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144" alt="Opportunity Android" />
   </a>
 
 </div>
 
 <br/>
 
-* 🚑 **[AroggyaGram-3](https://github.com/jvstin47/AroggyaGram-3)** — Intelligent Community Health-Response Network that turns unstructured human crisis calls into coordinated real-world action.
-* 🏎️ **[F1 Monte Carlo Strategy Simulator](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator)** — Vectorized Monte Carlo race strategy engine leveraging dynamic programming and live FastF1 telemetry in Python & React.
-* 🛺 **[AutoMeter](https://github.com/jvstin47/AutoMeter)** — Smart fare meter with dynamic on-screen UPI QR payment generation built for auto-rickshaws using Flutter and Android.
-* 📱 **[Opportunity Task Planner](https://github.com/jvstin47/opportunity-android-task-planner)** — Offline-first Android life & task scoring ecosystem with Jetpack Compose, Room DB, WorkManager, and Wear OS companion.
-* 🔐 **[CRT Modular Lock](https://github.com/jvstin47/CRT--Chinese-Reminder-Theorem)** — Digital recreation of a physical Chinese Remainder Theorem modular tumbler lock using React, TypeScript, and Framer Motion.
+* 🛰️ **[Phoenix X — Autonomous AI Search & Rescue UAV](https://github.com/jvstin47/Phoenix-SIH26177-SAR-UAV)** *(Smart India Hackathon 2026 Shortlisted · PS: SIH26177)* — DGCA-compliant autonomous Micro-UAV engineered for blackout disaster zones. Runs ThermalNet YOLOv8 human detection at <20ms inference latency on Qualcomm Robotics RB5 compute, backed by a 5km off-grid LoRa 915 MHz peer-to-peer mesh telemetry link. · [Live Mission Cockpit ↗](https://phoenix-sar-uav.vercel.app)
+* 🏎️ **[F1 Monte Carlo Race Strategy Simulator](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator)** — High-performance Formula 1 race strategy engine running a vectorized 10,000-pass Monte Carlo simulation, non-linear tyre degradation modeling, and Bellman-equation dynamic programming to compute optimal pit windows against stochastic safety cars and weather shifts. · [Live App ↗](https://f1-monte-carlo-race-strategy-simula.vercel.app)
+* 🚗 **[Team Stellar — Dual-Mode Autonomous Campus Buggy](https://github.com/jvstin47)** — Engineering dual-mode autonomous electric campus vehicle incorporating ROS 2 navigation, LiDAR mapping, RTK-GPS / IMU sensor fusion, and computer vision obstacle detection.
+* 🚑 **[AroggyaGram-3](https://github.com/jvstin47/AroggyaGram-3)** *(Winner: ACM Vibefest & BIRAC/MakerHub Ideathon)* — Intelligent community emergency triage ecosystem that ingests unstructured human crisis distress calls, classifies medical urgency, and performs heuristic proximity dispatch to field responders.
+* 📜 **[Captain Lakshmi: Invicta](https://github.com/jvstin47/Captain-Lakshmi-Invicta)** — Hardware-accelerated Canvas 2D frame sequencer scrubbing 3,100+ HD frames across 14 historical acts in real-time at 60 FPS, honoring Dr. Lakshmi Sahgal. · [Live Site ↗](https://capt-lakshmi.vercel.app)
+* 🛺 **[AutoMeter](https://github.com/jvstin47/AutoMeter)** — Tamper-resilient auto-rickshaw transit fare meter fusing GPS speed deltas and wheel pulses with instant on-screen dynamic UPI QR checkout.
+* 📱 **[Opportunity Task Planner](https://github.com/jvstin47/opportunity-android-task-planner)** — Offline-first Android life & task architecture with Jetpack Compose, Room DB, WorkManager background jobs, and a synchronized Wear OS companion app.
+* 🎵 **[Song Chord Analyzer](https://github.com/jvstin47/Song-Chord-Analyzer--Mac)** — Drag-and-drop desktop app running full local MIR pipeline: Demucs v4 stem separation → BTC Transformer chord recognition (170-chord vocabulary) → beat alignment. Built in collaboration with [@jerinjomy07](https://github.com/jerinjomy07).
+* 🕹️ **[UNO-Q Arena](https://github.com/jvstin47/UNO-Q-Arena-Edge-AI-Retro-Gaming-on-Arduino-UNO-Q)** — Reinforcement learning agent executing Street Fighter II & Combat Cars at 60 FPS on Arduino UNO-Q edge hardware.
 
 ---
 
-### 🔬 Architecture & Engineering Deep Dives
+### 🔬 Architecture & Systems Deep Dives
+
+<details open>
+<summary>🛰️ <b>Phoenix X — Zero-Cloud Thermal Detection & LoRa Telemetry Mesh (SIH26177)</b></summary>
+<br/>
+
+```
+[FLIR Lepton 3.5 / Radiometric Thermal Camera]
+                      │
+                      ▼ (<20ms On-Device Tensor Inference)
+    [Qualcomm Robotics RB5 (ThermalNet YOLOv8 NPU)]
+                      │
+                      ├──────────────────────────────────────────┐
+                      ▼ (Flight Path Feedback)                   ▼ (Critical Rescue Coordinates)
+     [Pixhawk 6X / ArduPilot Flight Controller]    [LoRa 915 MHz P2P Telemetry Mesh (5km)]
+                      │                                          │
+                      ▼                                          ▼
+     [Autonomous Micro-UAV Avionics]              [Open Ground Station & Rescue Cockpit]
+```
+* **Edge Compute**: Qualcomm RB5 NPU executing quantized ThermalNet YOLOv8 at <20ms latency under total communication blackout and optical zero-visibility.
+* **Telemetry Mesh**: 5km peer-to-peer LoRa 915 MHz RF packet mesh transmitting geo-coordinates without reliance on cellular towers or satellite links.
+</details>
 
 <details>
 <summary>🏎️ <b>F1 Monte Carlo Strategy Engine & Telemetry Pipeline</b></summary>
 <br/>
 
 ```
-[FastF1 API / Live Timing] ──> [Vectorized Tyre Degradation Model]
-                                          │
-                                          ▼
-[Weather & Safety Car Stochastic Noise] ──> [10,000x Monte Carlo Engine (NumPy)]
-                                          │
-                                          ▼
-                            [Dynamic Programming Optimizer]
-                                          │
-                                          ▼
-                         [Optimal Pit Window & Tyre Selection]
+[FastF1 API / Historical Telemetry] ──> [Vectorized Compound Degradation Model]
+                                                    │
+                                                    ▼
+   [Weather Shifts & Safety Car Noise] ──> [10,000x Monte Carlo Engine (NumPy)]
+                                                    │
+                                                    ▼
+                                      [Bellman Dynamic Optimizer]
+                                                    │
+                                                    ▼
+                                   [Optimal Pit Window & Undercut Matrix]
 ```
-* **Engine Core**: Simulates thousands of stochastic race trajectories in parallel using vectorized NumPy arrays.
-* **Degradation Profiles**: Non-linear wear curves calibrated against historical telemetry across Hard, Medium, and Soft compounds.
-* **Decision Optimization**: Bellman-equation-based dynamic programming to evaluate pit-stop risk vs undercut gain.
+* **Vectorized Core**: Evaluates 10,000 stochastic race evolutions concurrently via matrix broadcasting in NumPy.
+* **Degradation Profiles**: Non-linear degradation curves calibrated against live telemetry across Hard, Medium, and Soft compounds.
+* **Dynamic Decision**: Bellman-equation dynamic programming evaluating risk distributions between track position and tire delta.
 </details>
 
 <details>
-<summary>🚑 <b>AroggyaGram-3 — Decentralized Health Dispatch Pipeline</b></summary>
+<summary>🚑 <b>AroggyaGram-3 — Decentralized Health Triage Pipeline</b></summary>
 <br/>
 
 ```
 [Unstructured Distress Input] ──> [NLP Intent & Severity Classifier]
                                               │
                                               ▼
-                             [Proximity & Capability Matcher]
+                             [Haversine Capability & Distance Matcher]
                                               │
                                               ▼
-                        [Field Responder Broadcast & Task Lock]
+                        [Field Responder Task Broadcast & State Lock]
 ```
-* **Triage Engine**: Rapid intent extraction that tags medical urgency, required supplies, and specialized care.
+* **Triage Engine**: Rapid intent extraction that tags medical urgency, required supplies, and specialized care from unstructured audio/text.
 * **Dynamic Geocoding**: Haversine distance matrix with traffic-adjusted heuristic scoring for local health workers.
-</details>
-
-<details>
-<summary>🛺 <b>AutoMeter — Dynamic UPI & IoT Fare Architecture</b></summary>
-<br/>
-
-```
-[Wheel Sensor / GPS Pulse] ──> [Rate Matrix & Distance Accumulator]
-                                             │
-                                             ▼
-                             [Dynamic UPI Intent URL Generator]
-                                             │
-                                             ▼
-                               [Live High-Contrast Display QR]
-```
-* **Tamper-Resilient Calculation**: Dual sensor fusion cross-referencing GPS delta distance with wheel tachometer pulses.
-* **Instant Reconciliation**: Dynamic UPI QR codes embedded with exact amount, ride hash, and payee VPA for instant zero-fee passenger checkout.
 </details>
 
 ---
 
-<!-- Animated Cyber Telemetry & Pulsating Wave Loader -->
+<!-- Animated Emerald Telemetry Wave Loader -->
 <p align="center">
-  <img src="./assets/cyber-loader.svg" alt="Pulsating System Loader" width="100%" />
+  <img src="./assets/cyber-loader.svg" alt="Systems Telemetry Loader" width="100%" />
 </p>
 
-### 📊 Activity & Statistics
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
-  <!-- Stats & Streak -->
-  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=jvstin47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- Stats & Streak (Emerald Botanical Palette) -->
+  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=jvstin47&show_icons=true&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvstin47&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvstin47&background=07130b&border=10b98144&stroke=10b981&ring=34d399&fire=10b981&currStreakNum=ecfdf5&sideNums=34d399&currStreakLabel=34d399&sideLabels=a7f3d0&dates=6ee7b7" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=jvstin47&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages (Emerald Botanical Palette) -->
+  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=jvstin47&bg_color=07130b&title_color=34d399&text_color=ecfdf5&icon_color=10b981&border_color=10b98144&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -200,8 +220,8 @@ I am a **Computer Science Engineering student** and **Full-stack Developer** exp
 
 <div align="center">
   <br/>
-  <pre><code>┌──[jvstin47@quantum-node]─[~]
+  <pre><code>┌──[jvstin47@stellar-node]─[~]
 └──$ echo $PHILOSOPHY
-"SOFTWARE  ×  AI  ×  DESIGN  ×  EXPERIMENTATION"</code></pre>
+"Resilient by default. Zero bloat. Engineered for high stakes."</code></pre>
   <br/>
 </div>
