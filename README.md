@@ -77,17 +77,6 @@ I enjoy building things that bridge software with physical hardware—whether th
 </details>
 
 <details>
-<summary>🚗 <b>Team Stellar — Dual-Mode Autonomous Campus Buggy</b></summary>
-<br/>
-
-> Autonomous electric campus buggy project at Amal Jyothi focusing on ROS 2 navigation, LiDAR/GPS sensor integration, and vision-based obstacle avoidance.
->
-> **Stack:** ROS 2 · LiDAR · RTK-GPS · Embedded Controls  
-> **Links:** [Team Portfolio ↗](https://jvstin47.github.io)
-
-</details>
-
-<details>
 <summary>🚑 <b>AroggyaGram-3 — Community Crisis Triage Network</b> <i>(ACM Vibefest & BIRAC Ideathon Winner)</i></summary>
 <br/>
 
