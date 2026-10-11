@@ -1,13 +1,18 @@
 <div align="center">
 
-  <!-- Dynamic Typing Header in Signature Emerald -->
+  <h1>Justin Joe Mathew</h1>
+  <p><b>Software Engineer &amp; Systems Builder</b></p>
+
+  <!-- Responsive Dynamic Typing Subheader -->
   <a href="https://github.com/jvstin47">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3800&pause=1000&color=10B981&center=true&vCenter=true&width=720&lines=Justin+Joe+Mathew+%C2%B7+Software+Engineer+%26+Systems+Builder;2nd+Year+B.Tech+CSE+%40+Amal+Jyothi+College+of+Engineering;Autonomous+Robotics+%C2%B7+Edge+AI+%C2%B7+High-Throughput+Simulators;Phoenix+X+(SIH+'26)+%C2%B7+F1+Monte+Carlo+%C2%B7+AroggyaGram-3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Autonomous+Robotics+%C2%B7+Edge+AI;High-Throughput+Simulators;B.Tech+CSE+%40+Amal+Jyothi+('29);Phoenix+X+(SIH+'26)+%C2%B7+F1+Sim" alt="Typing Subheader" />
   </a>
 
-  <!-- Animated Botanical Systems Dock -->
+  <br/><br/>
+
+  <!-- Animated Botanical Systems Dock (Clipped & Contained) -->
   <p align="center">
-    <img src="./assets/cyber-dock.svg" alt="Systems Dock" width="100%" />
+    <img src="./assets/systems-dock.svg" alt="Systems Dock" width="100%" />
   </p>
 
   <!-- Badges -->
