@@ -11,8 +11,8 @@
 
   <!-- Quick Action Badges -->
   <p align="center">
-    <a href="https://jvstin47.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io-047857?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
+    <a href="https://jvstin47.github.io/47/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-jvstin47.github.io%2F47-047857?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" />
     </a>
     &nbsp;
     <a href="https://github.com/jvstin47" target="_blank">
@@ -61,7 +61,7 @@ I enjoy building things that bridge software with physical hardware—whether th
 > Autonomous Micro-UAV engineered for disaster zones with communication blackouts. Handles on-device thermal object detection and offline peer-to-peer telemetry over LoRa.
 >
 > **Stack:** Computer Vision · ThermalNet YOLO · LoRa P2P · Python  
-> **Links:** [Mission Cockpit ↗](https://phoenix-sar-uav.vercel.app) · [Project Overview ↗](https://jvstin47.github.io/projects.html#p8)
+> **Links:** [Mission Cockpit ↗](https://phoenix-sar-uav.vercel.app) · [Project Overview ↗](https://jvstin47.github.io/47/projects.html#p8)
 
 </details>
 
@@ -83,7 +83,7 @@ I enjoy building things that bridge software with physical hardware—whether th
 > Intelligent community health dispatch system that parses unstructured emergency requests, classifies urgency, and routes nearby responders.
 >
 > **Stack:** Next.js · TypeScript · AI Triage Logic  
-> **Links:** [GitHub Code ↗](https://github.com/jvstin47/AroggyaGram-3) · [Case Study ↗](https://jvstin47.github.io/projects.html#p1)
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/AroggyaGram-3) · [Case Study ↗](https://jvstin47.github.io/47/projects.html#p1)
 
 </details>
 
