@@ -72,7 +72,7 @@ I enjoy building things that bridge software with physical hardware—whether th
 > Vectorized 10,000-pass Monte Carlo race strategy engine that models non-linear tyre wear curves and uses dynamic programming to evaluate optimal pit-stop windows against live FastF1 telemetry.
 >
 > **Stack:** Python · NumPy · FastF1 · React  
-> **Links:** [Live Web App ↗](https://f1-monte-carlo-race-strategy-simula.vercel.app) · [GitHub Code ↗](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator)
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/f1-monte-carlo-race-strategy-simulator)
 
 </details>
 
