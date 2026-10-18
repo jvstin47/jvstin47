@@ -48,7 +48,7 @@ $ justin --status
 
 I’m currently in my 2nd year of Computer Science & Engineering at **Amal Jyothi College of Engineering** in Kerala, India. Most of my work centers around **edge devices, computer vision, and autonomous systems**.
 
-I enjoy building things that bridge software with physical hardware—whether that's on-device thermal detection for search-and-rescue drones, ROS 2 on an autonomous campus electric buggy, or high-throughput stochastic simulation engines.
+I enjoy building things that bridge software with physical hardware—whether that's aerial search-and-rescue systems architecture, edge AI inference, or high-throughput stochastic simulation engines.
 
 ---
 
@@ -113,9 +113,9 @@ I enjoy building things that bridge software with physical hardware—whether th
 <summary>📱 <b>Opportunity — Offline-First Task Planner</b></summary>
 <br/>
 
-> Native Android life & task architecture built with Room DB, background WorkManager synchronization, and a companion Wear OS app.
+> Native Android task architecture prototype built with Room DB and background WorkManager synchronization.
 >
-> **Stack:** Kotlin · Jetpack Compose · Wear OS  
+> **Stack:** Kotlin · Android Native · Room DB  
 > **Links:** [GitHub Code ↗](https://github.com/jvstin47/opportunity-android-task-planner)
 
 </details>
