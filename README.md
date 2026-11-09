@@ -99,6 +99,17 @@ I enjoy building things that bridge software with physical hardware—whether th
 </details>
 
 <details>
+<summary>🛫 <b>Airport Runway Scheduling System — Priority Queue</b></summary>
+<br/>
+
+> Real-time single-runway priority queue scheduling system engineered with custom linked-list data structures, preemptive emergency queuing, and Java Swing GUI.
+>
+> **Stack:** Java · Data Structures · Priority Queue · Swing  
+> **Links:** [GitHub Code ↗](https://github.com/jvstin47/airport-runway-scheduler)
+
+</details>
+
+<details>
 <summary>🛺 <b>AutoMeter — Dynamic UPI Fare Meter</b></summary>
 <br/>
 
@@ -138,7 +149,7 @@ I enjoy building things that bridge software with physical hardware—whether th
 <div align="center">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,cpp,kotlin,typescript,react,nextjs,fastapi,flutter,docker,linux,git" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,c,cpp,java,kotlin,typescript,react,nextjs,fastapi,flutter,docker,linux,git" alt="Tech Stack" />
   </a>
 
 </div>
